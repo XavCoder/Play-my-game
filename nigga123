@@ -1,0 +1,8 @@
+console.log("This will calculate how many tabs u can open in a give time");
+
+answer = prompt("How much time do u have (in seconds)");
+
+HowMuchAnswer = answer / 0.54;
+alert(" You can open " + HowMuchAnswer + " tabs");
+
+Beep();
